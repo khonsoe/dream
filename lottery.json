@@ -1,13 +1,13 @@
 {
   "thai_lottery": {
-    "draw_date": "01 กรกฎาคม 2568",
+    "draw_date": "1 Oct 2025",
     "first_prize": {
-      "name": "รางวัลที่ 1 (ဆုကြီး)",
-      "number": "949246"
+      "name": "One st prize (ဆုကြီး)",
+      "number": "876978"
     },
     "two_digit_back": {
-      "name": "เลขท้าย 2 ตัว (နောက် ၂ လုံး)",
-      "number": "91"
+      "name": "Last 2 Digits (အောက် ၂ လုံး)",
+      "number": "77"
     }
   }
 }
