@@ -1,13 +1,13 @@
 {
   "thai_lottery": {
-    "draw_date": "1 Nov 2025",
+    "draw_date": "16 Nov 2025",
     "first_prize": {
       "name": "One st prize (ဆုကြီး)",
-      "number": "345898"
+      "number": "458145"
     },
     "two_digit_back": {
       "name": "Last 2 Digits (အောက် ၂ လုံး)",
-      "number": "87"
+      "number": "37"
     }
   }
 }
