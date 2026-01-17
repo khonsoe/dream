@@ -1,13 +1,13 @@
 {
   "thai_lottery": {
-    "draw_date": "2 Jan 2026",
+    "draw_date": "17 Jan 2026",
     "first_prize": {
       "name": "One st prize (ဆုကြီး)",
-      "number": "837706"
+      "number": "878972"
     },
     "two_digit_back": {
       "name": "Last 2 Digits (အောက် ၂ လုံး)",
-      "number": "16"
+      "number": "02"
     }
   }
 }
